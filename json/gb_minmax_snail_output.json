@@ -1,10 +1,4 @@
 {
-    "busco" : [ C:96.9,
-         D:1.4,
-         F:0.9,
-         M:2.2,
-         n:3640 
-    ],
    "contig_count" : 278,
    "ATGC" : 604930116,
    "binned_scaffold_lengths" : [
@@ -14029,6 +14023,5 @@
       278
    ],
    "assembly" : 604930116
-  
 }
 
